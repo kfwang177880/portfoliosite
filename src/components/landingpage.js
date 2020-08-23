@@ -18,7 +18,7 @@ class Landing extends Component {
 
               <hr/>
 
-              <p>HTML/CSS| JavaScript | React | React Native | SQL | postregSQL| Oracle</p>
+              <p>HTML/CSS| JavaScript | React | React Native | SQL | postreg| Oracle</p>
 
               <div className="social-links">
 
